@@ -6,4 +6,4 @@ razao = int(input("Razão: "))
 termo_n =  termo_1 + (10 - 1) * razao
 for i in range(termo_1, termo_n + razao, razao):
   print(i, end=" -> ")
- 
+  
